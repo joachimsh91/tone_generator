@@ -75,6 +75,8 @@ static void MX_TIM6_Init(void);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
+
+// Printf over UART
 void myprintf(const char *fmt, ...) {
   static char buffer[256];
   va_list args;
