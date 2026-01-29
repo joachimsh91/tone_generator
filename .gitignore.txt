@@ -1,8 +1,0 @@
-Debug/
-Release/
-build/
-*.o
-*.d
-*.elf
-*.bin
-*.map

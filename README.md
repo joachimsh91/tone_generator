@@ -47,5 +47,3 @@ Additional hardware documentation:
 - Block diagram (ref. Tone Generator Block Diagram.png)
 - Wiring diagram (ref. Tone Generator Wiring Diagram.png)
 - Picture of physical hardware setup (ref. Hardware Setup.png) 
-
-		
